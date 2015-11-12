@@ -5,7 +5,7 @@ name: "david ding"
 markdown: rdiscount
 
 author: "david"
-atom-baseurl: "daweiphoto.github.io"
+atom-baseurl: "dingdawei.com"
 disqus: "gopherwood"
 
 navigations:
