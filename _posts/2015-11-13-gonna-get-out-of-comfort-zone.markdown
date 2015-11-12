@@ -7,6 +7,7 @@ tags:
   - diary
 ---
 
+![][image-1]
 
 前几天，网站再次因访问量过大，流量用罄而再次遭遇一个月的关停。
 即使我已经把照片们压缩的很小了。
@@ -51,3 +52,5 @@ tags:
 
 
 
+
+[image-1]:	http://7xo9zb.com1.z0.glb.clouddn.com/2015-11-13.jpeg
