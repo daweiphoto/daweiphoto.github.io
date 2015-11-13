@@ -1,11 +1,12 @@
 ---
-title: Perfect
+title: ‘Perfect’
 layout: post
 tags:
-  - github
-  - diary
+	- github
+	- website
 ---
 
-这个博客的制作应该是可以告一段落了。可以休息。  
-流量无限，免费。空间足够，免费。  
-最重要的是轻量化，perfect。
+这个博客的完善可以暂告一段落了，休息。  
+此博客搭载在Github。  
+无限流量，免费；空间足够，免费。  
+最重要是纯净，轻量，perfect！
