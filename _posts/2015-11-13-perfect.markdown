@@ -1,7 +1,6 @@
 ---
 title: ‘perfect’
 layout: post
-guid: urn:uuid:c6675166-6afd-4741-8ccd-d40517ff5230
 tags:
 	- github
 	- web
