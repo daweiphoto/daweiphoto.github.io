@@ -1,7 +1,0 @@
-title: Site in github
-layout: post
-tags:
-  - github
-  - diary
-  - 感觉很棒，免费流量，足够的空间，速度还不错。   
-谢谢Github。
