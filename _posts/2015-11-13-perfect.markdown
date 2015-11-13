@@ -1,10 +1,9 @@
 ---
-title: ‘perfect’
+title: Perfect
 layout: post
-guid: urn:uuid:ffcaf39b-877f-4980-ba2b-0966ca5c4999
 tags:
-	- github
-	- web
+  - github
+  - diary
 ---
 
 这个博客的制作应该是可以告一段落了。可以休息。  
