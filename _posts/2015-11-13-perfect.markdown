@@ -2,11 +2,12 @@
 title: ‘Perfect’
 layout: post
 tags:
-	- github
-	- website
+  - github
+  - website
 ---
 
 这个博客的完善可以暂告一段落了，休息。  
 此博客搭载在Github。  
 无限流量，免费；空间足够，免费。  
-最重要是纯净，轻量，perfect！
+最重要是纯净，轻量。  
+很完美。
