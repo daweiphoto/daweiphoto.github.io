@@ -1,7 +1,7 @@
 ---
 title: Site in github
 layout: post
-guid: urn:uuid:af62c8d3-84d7-4c48-bb29-4fef13220ff1
+guid: urn:uuid:af62c8d3-84d7-4c48-bb29-4fef13220ff6
 tags:
   - github
   - diary
