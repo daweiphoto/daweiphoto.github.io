@@ -16,21 +16,10 @@ layout: default
     <a href="/tags.html#{{ tag }}" title="{{ tag }}">#{{ tag }}</a>
     {% endfor %}
   </span>
-    <!-- BEGIN this would not work on any other domain -->
-  <span
-    class           = "like-wrapper"
-    like-shortname  = '{{ site.disqus }}'
-    like-identifier = '{{ page.guid }}'
-    like-name       = '{{ page.title }}'
-    like-btn        = '&#xf087;'
-    like-link       = '{{ site.atom-baseurl }}{{ page.url }}'
-    ></span>
-  <script type="text/javascript">
-    var l = document.createElement('script');
-    l.type = 'text/javascript'; l.async = true; l.src = 'http://www.like-btn.com/javascript/widget.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(l);
-  </script>
-  <!-- END this would not work on any other domain -->
+    <!-- LikeBtn.com BEGIN -->
+<span class="likebtn-wrapper" data-theme="gray" data-identifier="item_1" data-show_like_label="false" data-dislike_enabled="false"></span>
+<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
+<!-- LikeBtn.com END -->
   {% endif %}
   </section>
 
