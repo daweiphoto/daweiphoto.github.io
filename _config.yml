@@ -1,11 +1,11 @@
 markdown: rdiscount
 highlighter: pygments
 permalink: /:year/:month/:day/:title.html
-name: "david ding"
+name: "rusty shutter"
 markdown: rdiscount
 
-author: "david"
-atom-baseurl: "dingdawei.com"
+author: "wayne"
+atom-baseurl: "http://lhzhang.com"
 disqus: "gopherwood"
 
 navigations:
@@ -18,6 +18,9 @@ navigations:
   - title: About
     class: fa fa-user
     href: /about.html
+  - title: Gallery
+    class: fa fa-film
+    href: http://foto.lhzhang.com
   - title: Subscribe
     class: fa fa-rss
     href: /atom.xml
