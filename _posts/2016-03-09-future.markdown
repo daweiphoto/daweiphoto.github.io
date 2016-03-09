@@ -1,8 +1,8 @@
 ---
-title: 期货
+title: futures
 layout: post
 tags:
-  - future
+  - futures
 ---
  最近黑色系连拉涨停，后悔自己没有抱的住单，但更庆幸没有做为空头被按在涨停板爆仓。
  
