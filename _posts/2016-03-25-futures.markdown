@@ -1,5 +1,5 @@
 ---
-title: 耐心
+title: 耐心、耐心、耐心
 layout: post
 tags:
   - futures
