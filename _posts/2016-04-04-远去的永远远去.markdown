@@ -1,6 +1,8 @@
 ---
 title: 远去的永远远去
-layout: life
+layout: post
+tags:
+  - life
 ---
 
 ![](http://7xo9zb.com1.z0.glb.clouddn.com/%E8%A5%BF%E5%A1%985.jpg)
