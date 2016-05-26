@@ -1,5 +1,5 @@
 ---
-title: 不重复，不作
+title: 不重复，不作－wedding story
 layout: post
 tags:
   - futures
