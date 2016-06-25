@@ -1,5 +1,5 @@
 ---
-title: 张峰玮&朱英琦‘wedding
+title: 张峰玮&朱英琦－wedding
 layout: post
 tags:
   - wedding
