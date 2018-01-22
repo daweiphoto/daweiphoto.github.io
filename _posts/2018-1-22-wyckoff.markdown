@@ -1,5 +1,5 @@
 ---
-keyi yotitle: 再吸筹（1）
+title: 再吸筹（1）
 layout: post
 tags:
   - wyckoff
