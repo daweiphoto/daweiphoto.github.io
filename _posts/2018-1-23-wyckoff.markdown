@@ -1,5 +1,5 @@
 ---
-Ttitle: 再吸筹（2）
+title: 再吸筹（2）
 layout: post
 tags:
   - wyckoff
